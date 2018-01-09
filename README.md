@@ -2,7 +2,7 @@
 
 Članovi:
 Anamaria Vargić,
-Jelena Stojković
+Jelena Stojković,
 Valentina Ecimović
 
 Tema: Izrada grafikona i tablica
