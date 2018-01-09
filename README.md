@@ -1,7 +1,7 @@
 # Seminar
 
 Članovi:
-Anamaria Vargić
+Anamaria Vargić,
 Jelena Stojković
 Valentina Ecimović
 
